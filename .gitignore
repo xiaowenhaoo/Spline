@@ -1,0 +1,7 @@
+## vs c++ dll
+
+Debug
+ipch
+SPLINE_DLL\Debug
+*.sdf
+*.suo
